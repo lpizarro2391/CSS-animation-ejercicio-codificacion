@@ -89,5 +89,5 @@ transition-duration: 1s;
 transition-timing-function:
 linear;}
 #imagen3:hover {
-background: white;
+background: red;
 }
